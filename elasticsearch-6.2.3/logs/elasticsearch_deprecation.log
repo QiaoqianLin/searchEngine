@@ -1,0 +1,4 @@
+[2018-04-20T15:43:13,310][WARN ][o.e.d.c.ParseField       ] Deprecated field [all_fields] used, replaced by [Set [fields] to `*` instead]
+[2018-04-20T15:43:13,388][WARN ][o.e.d.c.ParseField       ] Deprecated field [all_fields] used, replaced by [Set [fields] to `*` instead]
+[2018-04-20T15:43:13,508][WARN ][o.e.d.c.ParseField       ] Deprecated field [inline] used, expected [source] instead
+[2018-04-20T15:43:13,520][WARN ][o.e.d.c.ParseField       ] Deprecated field [inline] used, expected [source] instead

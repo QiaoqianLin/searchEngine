@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    {% extends 'message.html' %}
+    {% block content %}
+    <div id="sell">
+      <h3> {{ sell.subject }}</h3>
+      <p> {{ sell.condition }}</p>
+      <p> {{ sell.body }}</p>
+      <!-- the rest of the fields.. -->
+    </div>
+    {% endblock %}
+</body>
+</html>
